@@ -3,7 +3,7 @@
 # M607-Retake
 Computer Science Application Lab Retake 
 
-
+# The stockmanagement file is the database schema along with the respective tables and foreign keys as well
 
 
 The following is the overall review of the submitted project 
