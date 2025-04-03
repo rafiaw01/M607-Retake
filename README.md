@@ -35,5 +35,7 @@ The following is the overall review of the submitted project
   # The database contains dummy data that is used for the project and can be seen in the seed.ts file of the project . 
 
 
+# IF PROBLEMS DO EXIST KINDLY READ the Packages documentation that is readily available on several search engines such as google 
+
 
   
